@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld"
-author: "NeoN8"
+author: "NeoN8 aka Nathan"
 date: "July 11, 2016"
 output: html_document
 ---
